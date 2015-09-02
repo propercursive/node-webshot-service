@@ -1,0 +1,12 @@
+{
+  "name": "webshot-service",
+  "version": "0.0.1",
+  "description": "HTML/CSS webshot as service",
+  "author": "Ryan Watkins-Hughes",
+  "dependencies": {
+    "aws-sdk": "^2.1.46",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "webshot": "^0.16.0"
+  }
+}
